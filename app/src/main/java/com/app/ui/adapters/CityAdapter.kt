@@ -6,9 +6,10 @@ import android.view.ViewGroup
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.app.R
+import com.app.database.CityDBModel
 import com.app.models.CityModel
 
-class CityAdapter(private val cities: List<CityModel>, private val onClickEvent: (model:CityModel) -> Unit) :
+class CityAdapter(private val cities: List<CityDBModel>, private val onClickEvent: (model:CityDBModel) -> Unit) :
     RecyclerView.Adapter<CityAdapter.ViewHolder>() {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
@@ -33,8 +34,8 @@ class CityAdapter(private val cities: List<CityModel>, private val onClickEvent:
         private val cityNameTextView: TextView = itemView.findViewById(R.id.cityText)
 
 
-        fun bind(city: CityModel) {
-            cityNameTextView.text = city.cityName
+        fun bind(city: CityDBModel) {
+            cityNameTextView.text = city.name
 
         }
     }

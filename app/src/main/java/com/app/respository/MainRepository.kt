@@ -27,6 +27,7 @@ class MainRepository @Inject constructor(
     suspend fun callPrayerData(apiUrl : String) = safeApiCall {
         apiClientInterface.getPrayerData(apiUrl)
     }
+
     suspend fun insertCity(city: CityDBModel) {
         appDao.insertCity(city)
     }

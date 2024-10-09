@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "AR Navigation"
+rootProject.name = "Al Adhan"
 include(":app")

@@ -15,6 +15,7 @@ interface AppDao {
     @Insert(onConflict = OnConflictStrategy.REPLACE)
 
     suspend fun insertUser(user: User)
+
     @Insert(onConflict = OnConflictStrategy.REPLACE)
     suspend fun insertCity(city: CityDBModel)
 
