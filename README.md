@@ -46,12 +46,12 @@ Al Adhan is a mobile application designed to help Muslims stay connected with th
 ### Home Screen
 
 <p float="left">
-  <img src="Al-Adhan_ss_1.jpeg" width="480" height="854"/>
-  <img src="Al-Adhan_ss_2.jpeg" width="480" height="854"/>
-    <img src="Al-Adhan_ss_3.jpeg" width="480" height="854"/>
-    <img src="Al-Adhan_ss_4.jpeg" width="480" height="854"/>
-    <img src="Al-Adhan_ss_5.jpeg" width="480" height="854"/>
-    <img src="Al-Adhan_ss_6.jpeg" width="480" height="854"/>
+  <img src="Al-Adhan_ss_1.jpeg" width="300" />
+  <img src="Al-Adhan_ss_2.jpeg" width="300" />
+    <img src="Al-Adhan_ss_3.jpeg" width="300" />
+    <img src="Al-Adhan_ss_5.jpeg" width="300" />
+    <img src="Al-Adhan_ss_4.jpeg" width="300" />
+    <img src="Al-Adhan_ss_6.jpeg" width="300" />
 </p>
 
  
