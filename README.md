@@ -43,11 +43,10 @@ Al Adhan is a mobile application designed to help Muslims stay connected with th
 
 ## 📸 Screenshots
 
-(Add screenshots here)
 
-Example:
-![Home Screen](screenshots/home.png)  
-![Prayer Times](screenshots/times.png)
+(https://github.com/user-attachments/assets/68af2838-3aaf-41b0-acd4-c60fc2ebbda0)
+ 
+
 
 ---
 
