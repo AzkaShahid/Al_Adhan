@@ -44,10 +44,10 @@ Al Adhan is a mobile application designed to help Muslims stay connected with th
 ## 📸 Screenshots
 
 ### Home Screen
-![Home](ss/home.png)
+![Home](Al-Adhan_ss_1.jpeg)
 
 ### Prayer Screen
-![Prayer](ss/prayer.png)
+![Prayer](Al-Adhan_ss_1.jpeg)
  
 
 
