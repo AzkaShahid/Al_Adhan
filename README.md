@@ -1,16 +1,16 @@
-# 🕌 Al Adhan – Prayer Time App
+#  Al Adhan – Prayer Time App
 
 An Android application that provides accurate Islamic prayer times based on the user’s location, along with additional Islamic utilities like notifications and schedule management.
 
 ---
 
-## 📱 Overview
+##  Overview
 
 Al Adhan is a mobile application designed to help Muslims stay connected with their daily prayers. The app calculates accurate prayer timings based on geographic location and provides timely notifications.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Accurate prayer time calculation based on location  
 - GPS-based location detection  
@@ -21,7 +21,7 @@ Al Adhan is a mobile application designed to help Muslims stay connected with th
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Kotlin / Java  
 - Android SDK  
@@ -31,7 +31,7 @@ Al Adhan is a mobile application designed to help Muslims stay connected with th
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 1. App detects user location  
 2. Calculates prayer times based on coordinates  
@@ -41,7 +41,7 @@ Al Adhan is a mobile application designed to help Muslims stay connected with th
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ### Home Screen
 
@@ -59,13 +59,13 @@ Al Adhan is a mobile application designed to help Muslims stay connected with th
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 
 This project demonstrates real-world Android development using location-based services and background scheduling for time-sensitive notifications.
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 1. Clone this repository  
 2. Open in Android Studio  
@@ -74,7 +74,7 @@ This project demonstrates real-world Android development using location-based se
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 - Qibla direction compass  
 - Islamic calendar integration  
@@ -84,7 +84,7 @@ This project demonstrates real-world Android development using location-based se
 
 ---
 
-## 👨‍💻 Developer
+##  Developer
 
 Azka Shahid  
 GitHub: https://github.com/AzkaShahid
